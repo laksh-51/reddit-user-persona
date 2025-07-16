@@ -1,0 +1,11 @@
+USER PERSONA FOR: u/Hungry-Move-6603
+
+Personality:
+ - Generally Negative
+ - Generally Positive
+ - Neutral / Mixed
+
+Language Style:
+ - Detailed / Verbose
+ - Concise / Brief
+
